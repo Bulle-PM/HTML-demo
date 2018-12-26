@@ -1,4 +1,6 @@
 Heading
 In this chapter I will be putting down my learning objective and what I want to archuve post this course
 Learning Github has been fun and very informative
-I want to be able to se this too effectively
+I want to be able to use this too effectively
+By the end of the course I should be able to full understand how github works and expore how I can intergrate it with my QA work
+Git helps teams remain focused and control what happens to their code/versions
