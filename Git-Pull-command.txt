@@ -1,3 +1,5 @@
 This new file is for learning git pull command
 
 It is meant to learn how to only get the new or latest changes made on my github repo
+Thus far I can change and make modifications on my commits and push my changes to git hub
+This is for demo only
